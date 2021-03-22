@@ -1,4 +1,4 @@
-# Birds Flock
+# BirdFlock Simulator
 
 This is a basic java project to demonstrate how birds fly in a group.
 
